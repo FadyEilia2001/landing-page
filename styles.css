@@ -123,7 +123,7 @@ img {
 
 .random-cards-container {
   display: flex;
-  /* flex-wrap: wrap; */
+  flex-wrap: wrap;
   width: 100%;
   padding: 2rem;
   justify-content: center;
@@ -146,8 +146,8 @@ img {
 }
 
 .random-text {
-  padding-left: 1.2rem;
-  padding-top: 0.5rem;
+  text-align: center;
+  width: 300px;
 }
 
 /* Here starts the quote */
